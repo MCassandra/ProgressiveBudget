@@ -6,7 +6,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 ## Technologies  
 -MongoDB  
 -Express  
--Webpack
+-Webpack  
 -Morgan  
 -Compression
 
@@ -16,4 +16,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 ![screenshot of app for budget](assets/budget.png)
 
 
+GitHub Repo: https://github.com/MCassandra/ProgressiveBudget   
+
+Live app: 
 https://gentle-tor-61496.herokuapp.com/
